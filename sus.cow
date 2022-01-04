@@ -1,0 +1,6 @@
+# TheTechRobo (github.com/TheTechRobo)
+# Copyright (C) 2022 TheTechRobo
+# Licenced under the MIT Licence
+
+$the_cow = <<EOF
+   $thoughts
