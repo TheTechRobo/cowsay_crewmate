@@ -1,0 +1,27 @@
+# TheTechRobo (thetechrobo.github.io)
+# Among Us Copyright (c) 2018-2022 Innersloth.
+# Copyright (c) 2022 TheTechRobo,
+# Licenced under Apache-2.0
+# Thank you for using!
+$the_cow = <<EOF
+  $thoughts
+   \\
+    \\
+     \\
+      \\
+       .-----------.          *
+*     |      _____  .   *
+      |     /     \  .                    *
+      |     \_____/   |             *
+ *    |               |                           *
+  * \#\#|               | *
+    \#\#|               |
+    \#\#|               |  				*
+    \#\#|     .---.     |  			   *
+    \#\#|    \'     \'    |    *         *
+    \#\#|    |     |    |
+      |    |     |    |
+      |    | *   |    |
+      |    |     |    |
+      t____t     t___t
+EOF

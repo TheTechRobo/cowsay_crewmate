@@ -7,11 +7,17 @@ Copy the sus.cow to `/usr/share/cows`
 
 Invoke cowsay with `-f sus`
 
+Other files
+-----------
+
+- `voted.cow`: Voted off, i.e. stars in the background
+  - someone pls help me rotate the image in ascii art
+
 Example
 -------
 
 ```
-➜  sus git:(master) ✗ cowsay -f amogus im not the impostor
+➜  sus git:(master) ✗ cowsay -f sus im not the impostor
  _____________________
 < im not the impostor >
  ---------------------
@@ -36,4 +42,3 @@ Example
       |    |     |    |
       t____t     t___t
 ```
-(Replace `amogus` with `sus`)
