@@ -1,4 +1,6 @@
-thanks to https://www.ludd.ltu.se/~vk/pics/ascii/junkyard/techstuff/tutorials/Hayley_Wakenshaw.html
+thanks to <https://www.ludd.ltu.se/~vk/pics/ascii/junkyard/techstuff/tutorials/Hayley_Wakenshaw.html>  
+https://www.networkworld.com/article/3601114/creating-your-own-cowsay-messenger.html
+
 
 Installation
 ============
